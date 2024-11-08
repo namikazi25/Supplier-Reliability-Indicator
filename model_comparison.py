@@ -17,8 +17,8 @@ Usage:
 2. Update the file path in the load_data() function to point to your CSV data file.
 3. Run the script to train and compare models, and evaluate their performance.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Mir Nafis Sharear Shopnil
+Date: 16 July 2024
 """
 
 """
