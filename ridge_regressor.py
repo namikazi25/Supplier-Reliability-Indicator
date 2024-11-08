@@ -18,8 +18,8 @@ Usage:
 3. Run the script to train the model and evaluate its performance.
 4. Use the trained model to predict reliability scores for new suppliers.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Mir Nafis Sharear Shopnil
+Date: 16-July-2024
 """
 
 # Import required libraries
